@@ -10,3 +10,10 @@ You can use shortcode `[share4happy-youtube-playlist]` in post, widget or PHP co
 You also have to provide a Youtube API key and playlist id, look like this: `
 [share4happy-youtube-playlist api_key="your api key" playlist_id="playlist id"]
 `
+
+## Screenshots
+
+![screenshot-1](./images/screenshot-1.PNG)
+
+![screenshot-2](./images/screenshot-2.PNG)
+

@@ -69,6 +69,7 @@ function share4happy_options_page(  ) {
       <p>Share4Happy Youtube Playlist is a simple plugin for get all video in a Youtube playlist and embered in Wordpress via shortcode.</p>
       <p>You can use shortcode <code>[share4happy-youtube-playlist]</code> in post, widget or PHP code.</p>
       <p>You also have to provide a Youtube API key and playlist id, look like this: <code>[share4happy-youtube-playlist api_key=&quot;your api key&quot; playlist_id=&quot;playlist id&quot;]</code></p>
+      <p>source code is available on Github: <a href="https://github.com/tr1nh/youtube-playlist">https://github.com/tr1nh/youtube-playlist</a></p>
     </div>
 
 		<?php
